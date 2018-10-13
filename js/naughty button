@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>naughty button</title>
+</head>
+  <body>
+  
+// naughty button
+<script>
+  <p id="nemo">Touch it.</p>
+  <button type="button" onclick='document.getElementById("nemo").innerHTML = "Thank you!"'>Clit!</button>
+</script>
+
+// adder
+<script>
+  document.write(5 + 10);
+</script>
+
+</body>
+</html>
